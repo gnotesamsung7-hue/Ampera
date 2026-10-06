@@ -1,0 +1,5 @@
+<resources>
+    <color name="face_background">#FF000000</color>
+    <color name="eye_color">#FFFF77C8</color>
+    <color name="heart_color">#FFFF3B4E</color>
+</resources>

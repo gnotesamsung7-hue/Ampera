@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ampera</string>
+    <string name="camera_denied">Camera permission is needed so I can see you. Tap to ask again.</string>
+    <string name="preview_desc">Camera preview</string>
+</resources>

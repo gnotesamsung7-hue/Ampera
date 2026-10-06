@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Ampera: two pink 8-bit eyes with pixel lashes -->
+    <path android:fillColor="#FF77C8"
+        android:pathData="M36,40h8v4h4v16h-4v4h-8v-4h-4v-16h4z" />
+    <path android:fillColor="#FF77C8"
+        android:pathData="M64,40h8v4h4v16h-4v4h-8v-4h-4v-16h4z" />
+    <path android:fillColor="#FF77C8"
+        android:pathData="M28,36h4v4h-4z M24,32h4v4h-4z M32,32h4v4h-4z M76,36h4v4h-4z M80,32h4v4h-4z M72,32h4v4h-4z" />
+</vector>
